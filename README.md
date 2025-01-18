@@ -17,6 +17,11 @@ A script that can be run within the Scriptable app to display a widget showing t
 - Tap out of the Scriptable editing popup
 - **IMPORTANT** hit _done_ to save the changes. If you just tap the home screen, iOS discards changes.
 
+## Screenshots
+"Small" sized widget
+![small widget](https://github.com/alvarezb/ScriptableBartWidget/blob/main/WidgetExample.jpeg?raw=true)
+
+
 ## Config options
 - `api` If you have an API key from https://api.bart.gov/api/register.aspx, you can add it here! If not, the script will use the shared API key that bart publishes, but which rotates periodically and will then stop working.
 - `shared_api` The public API key that bart displays on https://www.bart.gov/schedules/developers/api. This might change in the future, so if the API gives you invalid key errors you can either sign up for your own key, or replace this with the new key on bart's website.
