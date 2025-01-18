@@ -1,6 +1,10 @@
 // Variables used by Scriptable.
 // These must be at the very top of the file. Do not edit.
 // icon-color: blue; icon-glyph: subway;
+// The git repo, including updates and license for this code lives at:
+// https://github.com/alvarezb/ScriptableBartWidget/
+// If you make improvements, please contribute so other people can benefit!
+
 // if you have a personal API key, add it here!
 // It is totally optional
 // Otherwise, this will use the shared key published by BART.
