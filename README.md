@@ -1,5 +1,5 @@
 # ScriptableBartWidget
-A script that can be run within the Scriptable app to display a widget showing the next few trains departing from any bart station.
+A script to display the next trains departing from your chosen station! It uses the Scriptable app to display the widget.
 
 ## Install
 - Install the Scriptable app via the App Store: https://apps.apple.com/us/app/scriptable/id1405459188
