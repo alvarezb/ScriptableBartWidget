@@ -15,7 +15,7 @@ A script that can be run within the Scriptable app to display a widget showing t
   - Example: BALB,s
   - Example: MLBR,n
 - Tap out of the Scriptable editing popup
-- *IMPORTANT* hit _done_ to save the changes. If you just tap the hope screen, iOS discards changes.
+- **IMPORTANT** hit _done_ to save the changes. If you just tap the home screen, iOS discards changes.
 
 ## Config options
 - `api` If you have an API key from https://api.bart.gov/api/register.aspx, you can add it here! If not, the script will use the shared API key that bart publishes, but which rotates periodically and will then stop working.
